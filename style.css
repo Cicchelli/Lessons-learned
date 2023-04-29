@@ -7,10 +7,9 @@ top: 0;
 }
 
 header{
-  width: 100%;
+  width: auto;
   height: 80px ;
   border: #050505 1px solid;
-  position: static;
   top: 0px;
   left: auto;
   right: auto;
@@ -22,4 +21,11 @@ header{
 }
 
 
+
+
+#rodape{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
 
