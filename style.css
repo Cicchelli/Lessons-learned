@@ -6,7 +6,7 @@ top: 0;
 
 }
 
-nav{
+header{
   width: auto;
   height: 100px ;
   border: #050505 1px solid;
@@ -17,11 +17,31 @@ nav{
   text-align: center;
   font-size: 2.9vw;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+div.static{
+  position: static;
+  border: 3px solid #73ad73;
+}
+
+.info{
+    display: inline-block;
+  }
+
+.lado-direito{
+
+vertical-align: middle;
+max-width: 50%;
+text-align: center;
 
 }
 
-
-
+.lado-esquerdo{
+vertical-align: middle;
+max-width: 50%;
+text-align: center;
+}
 
 #rodape{
   margin: 0;
