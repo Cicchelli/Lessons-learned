@@ -111,3 +111,10 @@ article {
   max-width: 50%;
   text-align: center;
 }
+
+.lados{
+  display: inline-block;
+  text-align: center;
+  width: 50%
+
+}
