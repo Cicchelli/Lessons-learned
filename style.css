@@ -1,4 +1,3 @@
-
 body {
   background-color: rgb(253, 251, 251);
   font-family: 'Roboto', sans-serif;
@@ -17,6 +16,7 @@ body {
 p {
   font-size: 20px;
 }
+
 aside {
   border: 1px solid #555;
   padding: 10px;
@@ -24,6 +24,7 @@ aside {
   background-color: #333;
   color: #fff;
 }
+
 article {
   border: 1px solid #555;
   padding: 10px;
@@ -31,6 +32,7 @@ article {
   background-color: #333;
   color: #fff;
 }
+
 #titulo {
   border: 1px solid #555;
   margin: 0;
@@ -39,19 +41,23 @@ article {
   background-color: #333;
   color: #fff;
 }
+
 .info {
   display: inline-block;
 }
+
 .lado-direito {
   vertical-align: middle;
   max-width: 50%;
   text-align: center;
 }
+
 .lado-esquerdo {
   vertical-align: middle;
   max-width: 50%;
   text-align: center;
 }
+
 #rodape {
   margin: 0;
   padding: 0;
@@ -65,12 +71,15 @@ article {
   top: 0;
   position: fixed;
 }
+
 body {
   background-color: rgb(253, 251, 251);
 }
+
 p {
   font-size: 20px;
 }
+
 aside {
   border: 1px solid gray;
   padding: 10px;
@@ -78,6 +87,7 @@ aside {
   background-color: gray;
   color: white;
 }
+
 article {
   border: 1px solid gray;
   padding: 10px;
@@ -85,6 +95,7 @@ article {
   background-color: gray;
   color: white;
 }
+
 #titulo {
   border: 1px solid gray;
   margin: 0;
@@ -93,28 +104,32 @@ article {
   background-color: gray;
   color: white;
 }
+
 .info {
   display: inline-block;
 }
+
 .lado-direito {
   vertical-align: middle;
   max-width: 50%;
   text-align: center;
 }
+
 #rodape {
   margin: 0;
   padding: 0;
   text-align: center;
 }
+
 .lado-esquerdo {
   vertical-align: middle;
   max-width: 50%;
   text-align: center;
 }
 
-.lados{
+.lados {
   display: inline-block;
   text-align: center;
-  width: 50%
+  width: 50%;
 
 }
